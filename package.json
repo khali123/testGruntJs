@@ -1,0 +1,25 @@
+{
+  "name": "testgruntjs",
+  "version": "1.0.0",
+  "description": "tet gutny js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/khali123/testGruntJs.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khali123/testGruntJs/issues"
+  },
+  "homepage": "https://github.com/khali123/testGruntJs#readme",
+  "devDependencies": {
+    "grunt": "^1.5.3"
+  }
+}
